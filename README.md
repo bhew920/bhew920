@@ -25,6 +25,7 @@ Want to see what I’ve been working on? Here are a few labs and projects:
 
 - 🔍 [Splunk SPL](https://www.loom.com/share/3be74a52629d4bfc9cf0487427a0dbf0)
 - ⚙️ [Splunk Install CLI](https://www.loom.com/share/21f7b7048ab6416fb7f7cebd9f718706)
+- 📊 [Splunk Create Dashboard](https://www.loom.com/share/13b33c2cd022451692cabd71eebf174f)
 
 ---
 
